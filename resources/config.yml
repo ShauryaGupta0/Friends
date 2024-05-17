@@ -1,0 +1,28 @@
+# FriendSystem Configuration File
+
+# Prefix for messages
+prefix: "§l§6FRIENDS§r§b »§r "
+
+# Messages
+messages:
+  no_friends: "§aYou have no friends"
+  friend_request_sent: "§aYour friend request has been sent to %player%"
+  friend_request_received: "§a%player% sent you a friend request. Accept it with /friends accept %player% or reject it with /friends deny %player%."
+  friend_request_accepted: "§a%player% accepted your friend request"
+  friend_request_rejected: "§a%player% rejected your friend request"
+  not_online: "§aThis player is not online"
+  already_friends: "§aYou are already friends with %player%"
+  not_friends: "§aThis player is not your friend"
+  friend_added: "§a%player% is now your friend"
+  friend_removed: "§a%player% is no longer your friend"
+  invitations_disabled: "§aYou will no longer receive friend requests"
+  invitations_enabled: "§aYou will now receive friend requests again"
+  player_not_exist: "§aThis player does not exist"
+  no_invitation: "§aThis player did not send you a friend request"
+  usage_invite: "§eUsage: §2/friends invite <player>"
+  usage_accept: "§eUsage: §2/friends accept <player>"
+  usage_deny: "§eUsage: §2/friends deny <player>"
+  usage_remove: "§eUsage: §2/friends remove <player>"
+  console_no_friends: "§aThe console has no friends :)"
+
+# Other settings can go here

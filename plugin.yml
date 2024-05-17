@@ -1,0 +1,14 @@
+name: Friends
+main: ShauryaGupta06\Friends\Main
+version: 1.0.0
+api: [5.0.0]
+author:  ShauryaGupta06
+description: A simple friend system for PocketMine-MP.
+commands:
+  friends:
+    description: Manage your friends
+    usage: /friends <subcommand>
+    permission: friendsystem.command
+permissions:
+  friendsystem.command:
+    default: true
